@@ -22,4 +22,7 @@ tiny project that use datetime and time module and class concept
   <li> users folder</li>
   <p>
 Several modules include exception, user, and auth that create users with the user class. In the process of creating users, the auth module is used. In case of exceptions, the customized exception module is used</p>
+  <br>
+  <li>team</li>
+  <p> The team class contains a menu that allows adding teams and displaying the league table </p>
 </ul>

@@ -9,4 +9,13 @@ tiny project that use datetime and time module and class concept
      <li>It takes the date and time of your birth and says how old you are(time module</li>
      <li>It takes the date and time of your birthday and tells how much date and time is left until your birthday </li>
   </ul>
+  <br>
+  <li>calender</li>
+  <p> date class contain this operations:</p>
+  <ul>
+    <li>convert input to date object</li>
+    <li> validate input </li>
+    <li>Convert Gregorian date to solar date</li>
+    <li>Convert Gregorian date to lunar date </li>
+  </ul>
 </ul>
